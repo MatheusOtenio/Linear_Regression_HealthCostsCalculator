@@ -20,7 +20,7 @@ Este projeto me proporcionou uma experiência significativa no trabalho com **Re
 ## Resultado
 
 No meu projeto, consegui criar um modelo de regressão linear funcional que prevê os custos de saúde com um erro absoluto médio abaixo de **3500 dólares**, o que demonstra a capacidade do modelo em generalizar e fazer previsões precisas.
-
+![Gráfico](RegressaoLinear.png)
 ## Referências
 
 - [freeCodeCamp](https://github.com/freeCodeCamp)  
