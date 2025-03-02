@@ -18,4 +18,4 @@ No meu projeto, consegui criar um modelo de regressão linear funcional que prev
 ## Referências
 
 - [freeCodeCamp](https://github.com/freeCodeCamp)  
-- [zakaria-narjis](https://github.com/zakaria-narjis)
+- [Mephistopheles-0](https://github.com/Mephistopheles-0)
